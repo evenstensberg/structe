@@ -2,9 +2,13 @@
   "name": "structe",
   "version": "0.0.0",
   "description": "Front End Architecture Tool",
-  "main": "index.js",
+  "type": "module",
+  "main": "./lib/index.mjs",
+  "bin": {
+    "structe": "./cli/cli.mjs"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/test.mjs"
   },
   "repository": {
     "type": "git",
@@ -16,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/evenstensberg/structe/issues"
   },
-  "homepage": "https://github.com/evenstensberg/structe#readme"
+  "homepage": "https://github.com/evenstensberg/structe#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "lighthouse": "^10.0.1"
+  }
 }
