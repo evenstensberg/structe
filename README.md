@@ -10,3 +10,7 @@
   Front End Architecture Tool
 </p>
 <br>
+
+## Team
+
+- :norway: [Even Stensberg](https://twitter.com/evenstensberg), [webpack](https://webpack.js.org/) / [Studix](https://studix.com/)
