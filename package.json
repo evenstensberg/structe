@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./lib/index.mjs",
   "bin": {
-    "structe": "./cli/cli.mjs"
+    "structe": "./cli/src/structe"
   },
   "scripts": {
     "test": "node ./test/test.mjs"
