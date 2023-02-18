@@ -14,3 +14,4 @@
 ## Team
 
 - :norway: [Even Stensberg](https://twitter.com/evenstensberg), [webpack](https://webpack.js.org/) / [Studix](https://studix.com/)
+- :libya: [Ayoub Alfurjani](https://twitter.com/ZeroDrive1), [Muljin](https://muljin.com/) / [Joopie](https://joopie.co/)
