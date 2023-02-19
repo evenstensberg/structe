@@ -17,3 +17,4 @@
 - :libya: [Ayoub Alfurjani](https://twitter.com/ZeroDrive1), [Muljin](https://muljin.com/) / [Joopie](https://joopie.co/)
 - :norway: [Aron Nicholasson](https://twitter.com/ANicholasson), [twoday](https://twoday.com/)
 - 🇩🇪 [Dominik Pieper](https://twitter.com/DominikPieper), [Conciso](https://conciso.de/) / [Nxext](https://nxext.dev)
+- :nigeria: [Adekunle Oseni](https://twitter.com/oadex_09), [MomentiveAI](https://momentive.ai/)
