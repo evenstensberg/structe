@@ -8,7 +8,10 @@
     "structe": "./cli/src/structe"
   },
   "scripts": {
-    "test": "node ./test/test.mjs"
+    "test": "cargo test",
+    "compile": "cargo build",
+    "run": "./target/debug/structe",
+    "inline": "cargo run"
   },
   "repository": {
     "type": "git",
@@ -20,9 +23,5 @@
   "bugs": {
     "url": "https://github.com/evenstensberg/structe/issues"
   },
-  "homepage": "https://github.com/evenstensberg/structe#readme",
-  "dependencies": {
-    "chrome-launcher": "^0.15.1",
-    "lighthouse": "^10.0.1"
-  }
+  "homepage": "https://github.com/evenstensberg/structe#readme"
 }
