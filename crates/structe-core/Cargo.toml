@@ -1,0 +1,12 @@
+[package]
+name = "structe-core"
+version = "0.0.0"
+edition = "2021"
+authors = ["Even Stensberg & Contributors"]
+repository = "https://github.com/evenstensberg/structe"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structe-test = { path = "../structe-test" }
