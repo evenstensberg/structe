@@ -19,3 +19,4 @@
 - 🇩🇪 [Dominik Pieper](https://twitter.com/DominikPieper), [Conciso](https://conciso.de/) / [Nxext](https://nxext.dev)
 - :nigeria: [Adekunle Oseni](https://twitter.com/oadex_09), [MomentiveAI](https://momentive.ai/)
 - :libya: [Ramy Ma'wal](https://twitter.com/ramymawal), [Ecom](https://www.site.anis.ly/) / [Anis App](https://www.site.anis.ly/)
+- 🇮🇳 [Siva K](https://twitter.com/siva_kannan_), [BrowserStack](https://www.browserstack.com/)
