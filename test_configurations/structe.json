@@ -13,5 +13,10 @@
     "name": "Test",
     "context": "/Users/evenstensberg/test3",
     "branch": "null/undefined (takes the raw repo folder)"
+  },
+  {
+    "name": "CI",
+    "context": "/Users/evenstensberg/allconfigs",
+    "branch": "null/undefined (takes the raw repo folder)"
   }
 ]
