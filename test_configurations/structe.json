@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Development",
+    "context": "/Users/evenstensberg/test2",
+    "branch": "dev"
+  },
+  {
+    "name": "Production",
+    "context": "/Users/evenstensberg/test",
+    "branch": "prod"
+  },
+  {
+    "name": "Test",
+    "context": "/Users/evenstensberg/test3",
+    "branch": "null/undefined (takes the raw repo folder)"
+  }
+]

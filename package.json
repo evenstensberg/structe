@@ -2,16 +2,17 @@
   "name": "structe",
   "version": "0.0.0",
   "description": "Front End Architecture Tool",
-  "type": "module",
-  "main": "./lib/index.mjs",
   "bin": {
     "structe": "./cli/src/structe"
   },
   "scripts": {
-    "test": "cargo test",
-    "compile": "cargo build",
-    "run": "./target/debug/structe",
-    "inline": "cargo run"
+    "test:core": "cargo test",
+    "compile:core": "cargo build",
+    "compile:cli": "v ./cli/src/structe.v",
+    "run:core": "./target/debug/structe",
+    "run:cli": "./cli/src/structe",
+    "inline:core": "cargo run",
+    "inline:cli": "v run ./cli/src/structe.v"
   },
   "repository": {
     "type": "git",
