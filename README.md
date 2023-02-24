@@ -23,5 +23,4 @@
 
 ## Documentation
 
-- [CLI](./cli//README.md)
 - [Core](./CONTRIBUTING.md)

@@ -9,11 +9,11 @@ fn run_core(mut configuration: Configuration) -> () {
     return;
 }
 
-fn main() -> () {
+pub fn run() -> () {
     structe_test::test();
     // This is just for testing abstraction
     let testConfiguration = Configuration {
-        name: "config test"
+        name: "Core is running"
     };
     run_core(testConfiguration);
     return;
