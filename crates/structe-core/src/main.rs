@@ -1,6 +1,20 @@
 use structe_test;
 
-fn main() {
+struct Configuration<'a> {
+    name: &'a str
+}
+
+fn runCore(mut configuration: Configuration) -> () {
+    println!("{name} is up", name=configuration.name);
+    return;
+}
+
+fn main() -> () {
     structe_test::test();
-    println!("Core pkg works");
+    // This is just for testing abstraction
+    let testConfiguration = Configuration {
+        name: "config test"
+    };
+    runCore(testConfiguration);
+    return;
 }

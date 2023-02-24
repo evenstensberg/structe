@@ -9,7 +9,7 @@
     "test:core": "cargo test",
     "compile:core": "cargo build",
     "compile:cli": "v ./cli/src/structe.v",
-    "run:core": "./target/debug/structe",
+    "run:core": "./target/debug/structe-core",
     "run:cli": "./cli/src/structe",
     "inline:core": "cargo run",
     "inline:cli": "v run ./cli/src/structe.v"
