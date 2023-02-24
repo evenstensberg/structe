@@ -4,7 +4,7 @@ struct Configuration<'a> {
     name: &'a str
 }
 
-fn runCore(mut configuration: Configuration) -> () {
+fn run_core(mut configuration: Configuration) -> () {
     println!("{name} is up", name=configuration.name);
     return;
 }
@@ -15,6 +15,6 @@ fn main() -> () {
     let testConfiguration = Configuration {
         name: "config test"
     };
-    runCore(testConfiguration);
+    run_core(testConfiguration);
     return;
 }
